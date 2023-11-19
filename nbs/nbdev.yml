@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "chrphb-contacts"
+  site-url: "https://chrphb.github.io/chrphb-contacts"
+  description: "Library to manage contacts"
+  repo-branch: main
+  repo-url: "https://github.com/chrphb/chrphb-contacts"
