@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://chrphb.github.io',
                 'git_url': 'https://github.com/chrphb/chrphb-contacts',
                 'lib_path': 'chrphb_contacts'},
-  'syms': {'chrphb_contacts.core': {'chrphb_contacts.core.foo': ('core.html#foo', 'chrphb_contacts/core.py')}}}
+  'syms': { 'chrphb_contacts.core': { 'chrphb_contacts.core.Person': ('core.html#person', 'chrphb_contacts/core.py'),
+                                      'chrphb_contacts.core.foo': ('core.html#foo', 'chrphb_contacts/core.py')}}}

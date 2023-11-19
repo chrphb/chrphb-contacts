@@ -16,6 +16,26 @@ pip install chrphb_contacts
 Fill me in please! Don’t forget code examples:
 
 ``` python
+external_data = {
+    'id': 1,
+    'name': 'John Doe',
+    'email': 'john@doe.com',
+    'phone': '00000000000',
+    'met_ts': '2019-06-01 12:22'
+}
+
+person = Person(**external_data)
+
+person.name
+```
+
+    'John Doe'
+
+``` python
+foo??
+```
+
+``` python
 1+1
 ```
 
